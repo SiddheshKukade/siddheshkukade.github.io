@@ -1,4 +1,5 @@
-baseURL: https://visa.github.io/
+baseURL: https://siddheshkukade.github.io/
+
 languageCode: en-us
 title: My New Hugo Site
 theme: ["PaperMod"]
