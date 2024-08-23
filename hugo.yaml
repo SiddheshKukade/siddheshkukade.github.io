@@ -1,4 +1,5 @@
 baseURL: https://siddheshkukade.github.io/
 languageCode: en-us
-title: My New Hugo Site
+title: Visa Experiences of Siddhesh Kukade 
 theme: ["PaperMod"]
+publishDir:  public
